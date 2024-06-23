@@ -26,22 +26,22 @@ To run this game locally, follow these steps:
 Open the index.html file in your preferred web browser to start the game.
 
 3. **Project Structure**
--.cache: Cache files for the project.
--.config: Configuration files.
--.git: Git-related files for version control.
--.github: GitHub-specific configurations.
--.replit: Replit configuration file.
--README.md: This file.
--assets: Contains all the game assets like images and sounds.
--index.html: The main HTML file for the game.
--js: JavaScript files for game logic.
--replit.nix: Nix configuration for Replit.
+- .cache: Cache files for the project.
+- .config: Configuration files.
+- .git: Git-related files for version control.
+- .github: GitHub-specific configurations.
+- .replit: Replit configuration file.
+- README.md: This file.
+- assets: Contains all the game assets like images and sounds.
+- index.html: The main HTML file for the game.
+- js: JavaScript files for game logic.
+- replit.nix: Nix configuration for Replit.
 
 ## How to Play
 
-**Start the Game**: Open index.html in a web browser.
-**Controls**: Use the arrow keys to navigate your character through the game world.
-**Objective**: Find and collect all the treasures while avoiding traps and solving puzzles.
+- **Start the Game**: Open index.html in a web browser.
+- **Controls**: Use the arrow keys to navigate your character through the game world.
+- **Objective**: Find and collect all the treasures while avoiding traps and solving puzzles.
 
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
